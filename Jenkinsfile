@@ -13,7 +13,7 @@ pipeline {
         }
        stage('deploy') {
           steps {
-            echo 'iam deplyin'
+            echo 'ibhavaniaam deplyin'
           }
        }
 
